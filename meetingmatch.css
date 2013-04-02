@@ -1,0 +1,31 @@
+#skill_list_holder{
+/*border-radius: 5px;
+border: 1px solid rgb(107, 107, 107);*/
+text-align: center;
+}
+
+.skill_list_element{
+-webkit-box-shadow: 2px 2px 2px rgb(0, 0, 0) inset;
+background-color: rgb(238, 238, 238);
+border-radius: 19px;
+box-shadow: 2px 2px 2px rgb(107, 107, 107) inset;
+height: 30px;
+width: 70%;
+margin: auto;
+}
+
+.skill_list_element >p{
+	padding-top: 8px;
+}
+
+.ui-page{
+	background-image: url('img/background.png') !important; 
+	background-repeat: no-repeat;
+	/*background-size: 320px;*/
+}
+
+/*.ui-body-c, .ui-overlay-c{
+	color: rgb(255, 252, 252);
+	text-shadow: 0 0px 0 #fff;
+}
+*/
